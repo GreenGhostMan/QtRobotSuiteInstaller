@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>Rom Robot Suite</DisplayName>
+    <Description>this is going to install Rom robot Suite.</Description>
+    <Version>0.1.0-1</Version>
+    <ReleaseDate>2021-01-01</ReleaseDate>
+    <Licenses>
+        <License name="Beer Public License Agreement" file="license.txt" />
+    </Licenses>
+    <Default>true</Default>
+ 
+</Package>
