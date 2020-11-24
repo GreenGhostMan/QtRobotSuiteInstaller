@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>Rom Robot Suite</Name>
+    <Version>1.0.0</Version>
+    <Title>Rom Robot Suite Installer</Title>
+    <Publisher>ROM Robotics</Publisher>
+    <StartMenuDir>@HomeDir@/.local/share/applications</StartMenuDir>
+    <TargetDir>@HomeDir@/.romrobotics</TargetDir>
+</Installer>
